@@ -1,0 +1,4 @@
+First run random-square-string.py to get a long string of random characters.
+Then run txt-to-image.py to convert that string to an image.
+Then modify the image in mspaint or other program to determine the the desired outcome of the challenge.
+Then pass the modified image into image-to-txt.py to add the instruction text to the values and output the final .txt file
